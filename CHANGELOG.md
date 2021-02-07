@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** MarkdownLint fixes. [1d97d86](https://github.com/mitgedanken/Webservices/commit/1d97d86912c1e3421125f7cb95038ecd8846f05d) by [@sa-tasche](https://github.com/sa-tasche)
 -   **BREAKING** Changelog: 6f4ec0e to added, changed, deprecated, removed, fixed, security. [a2ede05](https://github.com/mitgedanken/Webservices/commit/a2ede054129318e6cfdef5c6bcb1ee87ff4f09ab) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: a2ede05 to added, changed, deprecated, removed, fixed, security. [88fc146](https://github.com/mitgedanken/Webservices/commit/88fc1467c758dc19e879fea2f63b9df3932518f2) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 88fc146 to added, changed, deprecated, removed, fixed, security. [d17ff52](https://github.com/mitgedanken/Webservices/commit/d17ff52d00339224dc2dfbfec13f20c7f75dc37c) by [@atomist-bot](https://github.com/atomist-bot)
 
 ### Changed
 
@@ -24,6 +25,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** MarkdownLint fixes. [1d97d86](https://github.com/mitgedanken/Webservices/commit/1d97d86912c1e3421125f7cb95038ecd8846f05d) by [@sa-tasche](https://github.com/sa-tasche)
 -   **BREAKING** Changelog: 6f4ec0e to added, changed, deprecated, removed, fixed, security. [a2ede05](https://github.com/mitgedanken/Webservices/commit/a2ede054129318e6cfdef5c6bcb1ee87ff4f09ab) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: a2ede05 to added, changed, deprecated, removed, fixed, security. [88fc146](https://github.com/mitgedanken/Webservices/commit/88fc1467c758dc19e879fea2f63b9df3932518f2) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 88fc146 to added, changed, deprecated, removed, fixed, security. [d17ff52](https://github.com/mitgedanken/Webservices/commit/d17ff52d00339224dc2dfbfec13f20c7f75dc37c) by [@atomist-bot](https://github.com/atomist-bot)
 
 ### Deprecated
 
@@ -33,6 +35,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** MarkdownLint fixes. [1d97d86](https://github.com/mitgedanken/Webservices/commit/1d97d86912c1e3421125f7cb95038ecd8846f05d) by [@sa-tasche](https://github.com/sa-tasche)
 -   **BREAKING** Changelog: 6f4ec0e to added, changed, deprecated, removed, fixed, security. [a2ede05](https://github.com/mitgedanken/Webservices/commit/a2ede054129318e6cfdef5c6bcb1ee87ff4f09ab) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: a2ede05 to added, changed, deprecated, removed, fixed, security. [88fc146](https://github.com/mitgedanken/Webservices/commit/88fc1467c758dc19e879fea2f63b9df3932518f2) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 88fc146 to added, changed, deprecated, removed, fixed, security. [d17ff52](https://github.com/mitgedanken/Webservices/commit/d17ff52d00339224dc2dfbfec13f20c7f75dc37c) by [@atomist-bot](https://github.com/atomist-bot)
 
 ### Removed
 
@@ -42,6 +45,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** MarkdownLint fixes. [1d97d86](https://github.com/mitgedanken/Webservices/commit/1d97d86912c1e3421125f7cb95038ecd8846f05d) by [@sa-tasche](https://github.com/sa-tasche)
 -   **BREAKING** Changelog: 6f4ec0e to added, changed, deprecated, removed, fixed, security. [a2ede05](https://github.com/mitgedanken/Webservices/commit/a2ede054129318e6cfdef5c6bcb1ee87ff4f09ab) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: a2ede05 to added, changed, deprecated, removed, fixed, security. [88fc146](https://github.com/mitgedanken/Webservices/commit/88fc1467c758dc19e879fea2f63b9df3932518f2) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 88fc146 to added, changed, deprecated, removed, fixed, security. [d17ff52](https://github.com/mitgedanken/Webservices/commit/d17ff52d00339224dc2dfbfec13f20c7f75dc37c) by [@atomist-bot](https://github.com/atomist-bot)
 
 ### Fixed
 
@@ -51,6 +55,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** MarkdownLint fixes. [1d97d86](https://github.com/mitgedanken/Webservices/commit/1d97d86912c1e3421125f7cb95038ecd8846f05d) by [@sa-tasche](https://github.com/sa-tasche)
 -   **BREAKING** Changelog: 6f4ec0e to added, changed, deprecated, removed, fixed, security. [a2ede05](https://github.com/mitgedanken/Webservices/commit/a2ede054129318e6cfdef5c6bcb1ee87ff4f09ab) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: a2ede05 to added, changed, deprecated, removed, fixed, security. [88fc146](https://github.com/mitgedanken/Webservices/commit/88fc1467c758dc19e879fea2f63b9df3932518f2) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 88fc146 to added, changed, deprecated, removed, fixed, security. [d17ff52](https://github.com/mitgedanken/Webservices/commit/d17ff52d00339224dc2dfbfec13f20c7f75dc37c) by [@atomist-bot](https://github.com/atomist-bot)
 
 ### Security
 
@@ -60,3 +65,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** MarkdownLint fixes. [1d97d86](https://github.com/mitgedanken/Webservices/commit/1d97d86912c1e3421125f7cb95038ecd8846f05d) by [@sa-tasche](https://github.com/sa-tasche)
 -   **BREAKING** Changelog: 6f4ec0e to added, changed, deprecated, removed, fixed, security. [a2ede05](https://github.com/mitgedanken/Webservices/commit/a2ede054129318e6cfdef5c6bcb1ee87ff4f09ab) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: a2ede05 to added, changed, deprecated, removed, fixed, security. [88fc146](https://github.com/mitgedanken/Webservices/commit/88fc1467c758dc19e879fea2f63b9df3932518f2) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 88fc146 to added, changed, deprecated, removed, fixed, security. [d17ff52](https://github.com/mitgedanken/Webservices/commit/d17ff52d00339224dc2dfbfec13f20c7f75dc37c) by [@atomist-bot](https://github.com/atomist-bot)
