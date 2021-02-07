@@ -87,6 +87,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** Changelog: b1b410d to added, changed, deprecated, removed, fixed, security. [5932bb2](https://github.com/mitgedanken/Webservices/commit/5932bb2134d8b7f081241fc950655f90c25c1d74) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: 5932bb2 to added, changed, deprecated, removed, fixed, security. [e3df641](https://github.com/mitgedanken/Webservices/commit/e3df641b641eb71f92f53c84fcc542fd6ccc3a4e) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: e3df641 to added, changed, deprecated, removed, fixed, security. [35e79ec](https://github.com/mitgedanken/Webservices/commit/35e79ec1e954be13a8fd1baf6ec4414a25346610) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 35e79ec to added, changed, deprecated, removed, fixed, security. [cea57f4](https://github.com/mitgedanken/Webservices/commit/cea57f4652789e53c8e547e93fc654cec42a547c) by [@atomist-bot](https://github.com/atomist-bot)
 
 ### Changed
 
@@ -168,6 +169,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** Changelog: b1b410d to added, changed, deprecated, removed, fixed, security. [5932bb2](https://github.com/mitgedanken/Webservices/commit/5932bb2134d8b7f081241fc950655f90c25c1d74) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: 5932bb2 to added, changed, deprecated, removed, fixed, security. [e3df641](https://github.com/mitgedanken/Webservices/commit/e3df641b641eb71f92f53c84fcc542fd6ccc3a4e) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: e3df641 to added, changed, deprecated, removed, fixed, security. [35e79ec](https://github.com/mitgedanken/Webservices/commit/35e79ec1e954be13a8fd1baf6ec4414a25346610) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 35e79ec to added, changed, deprecated, removed, fixed, security. [cea57f4](https://github.com/mitgedanken/Webservices/commit/cea57f4652789e53c8e547e93fc654cec42a547c) by [@atomist-bot](https://github.com/atomist-bot)
 
 ### Deprecated
 
@@ -249,6 +251,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** Changelog: b1b410d to added, changed, deprecated, removed, fixed, security. [5932bb2](https://github.com/mitgedanken/Webservices/commit/5932bb2134d8b7f081241fc950655f90c25c1d74) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: 5932bb2 to added, changed, deprecated, removed, fixed, security. [e3df641](https://github.com/mitgedanken/Webservices/commit/e3df641b641eb71f92f53c84fcc542fd6ccc3a4e) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: e3df641 to added, changed, deprecated, removed, fixed, security. [35e79ec](https://github.com/mitgedanken/Webservices/commit/35e79ec1e954be13a8fd1baf6ec4414a25346610) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 35e79ec to added, changed, deprecated, removed, fixed, security. [cea57f4](https://github.com/mitgedanken/Webservices/commit/cea57f4652789e53c8e547e93fc654cec42a547c) by [@atomist-bot](https://github.com/atomist-bot)
 
 ### Removed
 
@@ -330,6 +333,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** Changelog: b1b410d to added, changed, deprecated, removed, fixed, security. [5932bb2](https://github.com/mitgedanken/Webservices/commit/5932bb2134d8b7f081241fc950655f90c25c1d74) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: 5932bb2 to added, changed, deprecated, removed, fixed, security. [e3df641](https://github.com/mitgedanken/Webservices/commit/e3df641b641eb71f92f53c84fcc542fd6ccc3a4e) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: e3df641 to added, changed, deprecated, removed, fixed, security. [35e79ec](https://github.com/mitgedanken/Webservices/commit/35e79ec1e954be13a8fd1baf6ec4414a25346610) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 35e79ec to added, changed, deprecated, removed, fixed, security. [cea57f4](https://github.com/mitgedanken/Webservices/commit/cea57f4652789e53c8e547e93fc654cec42a547c) by [@atomist-bot](https://github.com/atomist-bot)
 
 ### Fixed
 
@@ -411,6 +415,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** Changelog: b1b410d to added, changed, deprecated, removed, fixed, security. [5932bb2](https://github.com/mitgedanken/Webservices/commit/5932bb2134d8b7f081241fc950655f90c25c1d74) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: 5932bb2 to added, changed, deprecated, removed, fixed, security. [e3df641](https://github.com/mitgedanken/Webservices/commit/e3df641b641eb71f92f53c84fcc542fd6ccc3a4e) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: e3df641 to added, changed, deprecated, removed, fixed, security. [35e79ec](https://github.com/mitgedanken/Webservices/commit/35e79ec1e954be13a8fd1baf6ec4414a25346610) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 35e79ec to added, changed, deprecated, removed, fixed, security. [cea57f4](https://github.com/mitgedanken/Webservices/commit/cea57f4652789e53c8e547e93fc654cec42a547c) by [@atomist-bot](https://github.com/atomist-bot)
 
 ### Security
 
@@ -492,3 +497,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 -   **BREAKING** Changelog: b1b410d to added, changed, deprecated, removed, fixed, security. [5932bb2](https://github.com/mitgedanken/Webservices/commit/5932bb2134d8b7f081241fc950655f90c25c1d74) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: 5932bb2 to added, changed, deprecated, removed, fixed, security. [e3df641](https://github.com/mitgedanken/Webservices/commit/e3df641b641eb71f92f53c84fcc542fd6ccc3a4e) by [@atomist-bot](https://github.com/atomist-bot)
 -   **BREAKING** Changelog: e3df641 to added, changed, deprecated, removed, fixed, security. [35e79ec](https://github.com/mitgedanken/Webservices/commit/35e79ec1e954be13a8fd1baf6ec4414a25346610) by [@atomist-bot](https://github.com/atomist-bot)
+-   **BREAKING** Changelog: 35e79ec to added, changed, deprecated, removed, fixed, security. [cea57f4](https://github.com/mitgedanken/Webservices/commit/cea57f4652789e53c8e547e93fc654cec42a547c) by [@atomist-bot](https://github.com/atomist-bot)
